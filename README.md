@@ -1,4 +1,4 @@
-# README Markup
+# README Markdown Heading
 
 ## Heading 2
 
